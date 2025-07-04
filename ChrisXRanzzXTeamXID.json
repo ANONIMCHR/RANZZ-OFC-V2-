@@ -2,6 +2,5 @@
   "users": [
     { "id": "6285811454916", "name": "User1", "status": "active" },
     { "id": "6285821813502", "name": "User2", "status": "inactive" }
-    // dst.
   ]
 }
